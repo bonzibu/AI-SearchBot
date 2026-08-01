@@ -1,0 +1,9 @@
+{
+    "auto_remember_info": true, //recommended
+    "use_memory": true, //recommended
+    "speak_answers": true, //recommended
+    "speak_while_generating": true, //recommended
+    "memory_similarity_threshold": 0.65, //leave as is if you dont know what you're doing.
+    "max_web_results": 5, // the more the merrier!
+    "model": "qwen2.5:7b" // ollama models (can be accessed with "ollama pull <model>")
+}
